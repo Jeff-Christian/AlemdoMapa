@@ -1,0 +1,27 @@
+/* Home Hero */
+
+.heroContainer {
+  width: 1300px;
+  height: 100vh;
+  background-color: #eeebe6;
+  border-radius: 10px;
+  margin: 0 auto;
+  padding: 2rem;
+  text-align: center;
+}
+
+.logoAlem {
+  width: 150px;
+  transition: 0.5s ease-in-out;
+}
+
+.logoAlem:hover {
+  width: 120px;
+}
+
+.heroImage {
+  width: 540px;
+  height: 100%;
+  border-radius: 20px;
+  object-fit: cover;
+}
