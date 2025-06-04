@@ -1,12 +1,29 @@
-# React + Vite
+# 🧭 Além do Mapa – Agência de Viagens
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Projeto de portfólio desenvolvido com foco em UI/UX, identidade visual e criação de uma aplicação front-end moderna para uma agência de viagens.
 
-Currently, two official plugins are available:
+## ✨ Sobre o projeto
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+**Além do Mapa** é uma marca de turismo criada para demonstrar habilidades em design, desenvolvimento web e organização de projeto. 
 
-## Expanding the ESLint configuration
+---
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## 🚀 Tecnologias utilizadas
+
+- [React](https://reactjs.org/) + [Vite](https://vitejs.dev/) – estrutura leve e moderna
+- [Figma](https://figma.com/) – criação da identidade visual e layout
+- [Git](https://git-scm.com/) + [GitHub](https://github.com/) – versionamento e colaboração
+
+---
+
+## 🔧 Funcionalidades atuais
+
+- ✅ Layout institucional completo
+- ✅ Identidade visual própria (nome, paleta, tipografia e logo)
+- ✅ Design responsivo para mobile e desktop
+
+---
+
+## 🖼 Prévia do layout
+
+
